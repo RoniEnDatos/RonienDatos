@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/RoniEnDatos/RonienDatos/blob/main/RonienDatos1.png" width="800"/>
+  <img src="https://github.com/RoniEnDatos/RonienDatos/blob/main/RonienDatos2.png" width="800"/>
 </p>
 
 <hr>
