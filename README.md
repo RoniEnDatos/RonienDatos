@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/RoniEnDatos/RonienDatos/blob/main/RonienDatos.png" height="230"/>
+  <img src="https://github.com/RoniEnDatos/RonienDatos/blob/main/RonienDatos1.png" height="230"/>
 </p>
 <hr>
 <h1 align="center">I'm <a href="https://github.com/Aryagm">Arya Manjaramkar<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
