@@ -52,7 +52,6 @@
 <h1>Some of my Projects! 🎨</h1>
 <Br>
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/Aryagm/California_Housing_Prices)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RoniEnDatos&repo=Automation_invoices)](https://github.com/RoniEnDatos/Automation_invoices)
 
