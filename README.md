@@ -1,5 +1,11 @@
 <hr>
-<h1 align="center">Hi, <a href="https://github.com/RoniEnDatos"> I'm Ronald Quispe <a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+
+<h1 align="center">Hi, I'm Ronald <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="50px"/></h1>
+
+<p align="center">
+  📍 Lima, Peru • 🔧 Data Engineering & Analytics • 🧠 Python & ML Enthusiast
+</p>
+
 <Br>
 <h1>About Me! 😎</h1>
 
