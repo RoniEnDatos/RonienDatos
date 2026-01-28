@@ -55,6 +55,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RoniEnDatos&repo=Automation_invoices)](https://github.com/RoniEnDatos/Automation_invoices)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RoniEnDatos&repo=Market-Basket-Analytics)](https://github.com/RoniEnDatos/Market-Basket-Analytics)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RoniEnDatos&repo=ML_Wallmart)](https://github.com/RoniEnDatos/ML_Wallmart)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RoniEnDatos&repo=spotify_end_to_end_project)](https://github.com/RoniEnDatos/spotify_end_to_end_project)
+
 
 <Br>
 <hr>
