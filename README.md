@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Ronald <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="50px"/></h1>
 
 <p align="center">
-  📍 Lima, Peru • 🔧 Data Engineering & Analytics • 🧠 Python & ML Enthusiast
+  📍 Lima, Peru • 🔧 Software Developer • 🧠 Python & ML Enthusiast
 </p>
 
 <Br>
