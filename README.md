@@ -23,7 +23,7 @@
 
 <!-- ======================= ABOUT ME ======================= -->
 
-<h1>About Me! 😎</h1>
+<h1>About Me! </h1>
 
 - 🏫: I have a degree in electronic engineering.  
 - 🔭: I am currently working on many Data Science and ML projects.  
