@@ -13,9 +13,9 @@
 <!-- TEMPLATE: Replace with your own repos -->
 <h1>Current Projects</h1>
 
+- 🎶[Spotify End-to-End](https://github.com/RoniEnDatos/spotify_end_to_end_project.git) — ¿Cómo construí un pipeline real de Data Engineering en Azure desde cero?
 - 📊[Facturas](https://github.com/RoniEnDatos/Automation_invoices.git) — ¿Cómo convertir PDFs en datos con Python?
 - 🛒[MarketBasketAnalytics](https://github.com/RoniEnDatos/Market-Basket-Analytics.git) — ¿Qué compran tus clientes juntos… y cómo usarlo para vender más?
-- 🎶[Spotify End-to-End](https://github.com/RoniEnDatos/spotify_end_to_end_project.git) — ¿Cómo construí un pipeline real de Data Engineering en Azure desde cero?
 - 💸[Gestor de Gastos](https://github.com/RoniEnDatos/Gestor-de-Gastos-con-FastAPI.git) — ¿Cómo construí mi primer backend real con FastAPI?
 - 🕷️[WebScraping-DevTools](https://github.com/RoniEnDatos/Gestor-de-Gastos-con-FastAPI.git) — ¿Cómo entender el DOM para extraer datos como un pro?
 - 🏬[WalmartClusters](https://github.com/RoniEnDatos/ML_Wallmart.git) — ¿Cómo agrupé tiendas usando Machine Learning sin etiquetas?
