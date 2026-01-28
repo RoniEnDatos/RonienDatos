@@ -17,8 +17,8 @@
 <h1>Current Projects</h1>
 
 - https://github.com/RoniEnDatos/Automation_invoices.git 📊 Facturas</a> — ¿Cómo convertir PDFs en datos con Python?
-- https://github.com/USERNAME/PROJECT2🛒 MarketBasketAnalytics</a> — ¿Qué compran tus clientes juntos… y cómo usarlo para vender más?
-- https://github.com/USERNAME/PROJECT3🎶 Spotify End-to-End</a> — ¿Cómo construí un pipeline real de Data Engineering en Azure desde cero?
+- https://github.com/RoniEnDatos/Market-Basket-Analytics.git🛒 MarketBasketAnalytics</a> — ¿Qué compran tus clientes juntos… y cómo usarlo para vender más?
+- https://github.com/RoniEnDatos/spotify_end_to_end_project.git🎶 Spotify End-to-End</a> — ¿Cómo construí un pipeline real de Data Engineering en Azure desde cero?
 - https://github.com/USERNAME/PROJECT4Proyecto 4</a> — Short description here
 
 <hr>
