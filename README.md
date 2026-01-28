@@ -3,14 +3,14 @@
 <h1>Hi, I'm Ronald <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="50px"/></h1>
 
 <p>
-  📍 Lima, Peru • 🔧 Software Developer / Data Analyst / Data Engineer • 🧠 Python & ML
+📍 Lima, Peru • 🔧 Software Developer / Data Analyst / Data Engineer • 🧠 Python & ML
 </p>
 
 <br>
 
 <!-- ======================= PROJECTS SECTION ======================= -->
 
-<h1 align="center">Projects! 🚀</h1>
+<h1>Projects! 🚀</h1>
 <br>
 
 <!-- TEMPLATE: Replace with your own repos -->
