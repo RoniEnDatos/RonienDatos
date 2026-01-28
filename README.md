@@ -18,6 +18,7 @@
 - 🎶[Spotify End-to-End](https://github.com/RoniEnDatos/spotify_end_to_end_project.git) — ¿Cómo construí un pipeline real de Data Engineering en Azure desde cero?
 - 💸[Gestor de Gastos](https://github.com/RoniEnDatos/Gestor-de-Gastos-con-FastAPI.git) — ¿Cómo construí mi primer backend real con FastAPI?
 - 🕷️[WebScraping-DevTools](https://github.com/RoniEnDatos/Gestor-de-Gastos-con-FastAPI.git) — ¿Cómo entender el DOM para extraer datos como un pro?
+- 🏬[WalmartClusters](https://github.com/RoniEnDatos/ML_Wallmart.git) — ¿Cómo agrupé tiendas usando Machine Learning sin etiquetas?
 
 <hr>
 ``
