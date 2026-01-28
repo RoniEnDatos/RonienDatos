@@ -15,10 +15,13 @@
 
 <!-- TEMPLATE: Replace with your own repos -->
 <p align="left">
-🔹 <a href="https://github.com/USERNAME/PROJECT1">📊 Facturas</a> — ¿Cómo convertir PDFs en datos con Python?
-🔹 <a href="https://github.com/USERNAME/PROJECT2">🛒 MarketBasketAnalytics</a> — ¿Qué compran tus clientes juntos… y cómo usarlo para vender más?
-🔹 — ¿Cómo construí un pipeline real de Data Engineering en Azure desde cero?
-🔹 https://github.com/USERNAME/PROJECT4 — Short description here
+
+🔹 <a href="https://github.com/USERNAME/PROJECT1"> 📊 Facturas</a> — ¿Cómo convertir PDFs en datos con Python?
+🔹 <a href="https://github.com/USERNAME/PROJECT2"> 🛒 MarketBasketAnalytics</a> — ¿Cómo descubrí qué productos venden más cuando se combinan?
+🔹 <a href="https://github.com/USERNAME/PROJECT3"> 🎶 Spotify End-to-End </a>— ¿Cómo construí un pipeline real de Data Engineering en Azure desde cero?
+
+🔹 https://github.com/USERNAME/PROJECT4 — Short description here  
+
 </p>
 <br>
 <hr>
