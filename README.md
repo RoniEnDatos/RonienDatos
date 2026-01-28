@@ -16,8 +16,8 @@
 <!-- TEMPLATE: Replace with your own repos -->
 <p align="left">
 
-🔹 <a href="https://github.com/USERNAME/PROJECT1">📊 Facturas </a> — ¿Cómo convertir PDFs en datos con Python?
-🔹 <a href="https://github.com/USERNAME/PROJECT2">PROJECT NAME 2</a> — Short description here  
+🔹 <a href="https://github.com/USERNAME/PROJECT1">📊 Facturas</a> — ¿Cómo convertir PDFs en datos con Python?
+🔹 <a href="https://github.com/USERNAME/PROJECT2">🛒 MarketBasketAnalytics</a> — ¿Cómo descubrí qué productos venden más cuando se combinan?
 🔹scription here  
 🔹 https://github.com/USERNAME/PROJECT4 — Short description here  
 
