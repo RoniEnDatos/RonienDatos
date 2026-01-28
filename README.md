@@ -14,20 +14,15 @@
 <br>
 
 <!-- TEMPLATE: Replace with your own repos -->
-<p align="left">
+<h1>Current Projects</h1>
 
-🔹 <a href="https://github.com/USERNAME/PROJECT1">📊 Facturas</a> — ¿Cómo convertir PDFs en datos con Python?<br>
+- https://github.com/USERNAME/PROJECT1📊 Facturas</a> — ¿Cómo convertir PDFs en datos con Python?
+- https://github.com/USERNAME/PROJECT2🛒 MarketBasketAnalytics</a> — ¿Qué compran tus clientes juntos… y cómo usarlo para vender más?
+- https://github.com/USERNAME/PROJECT3🎶 Spotify End-to-End</a> — ¿Cómo construí un pipeline real de Data Engineering en Azure desde cero?
+- https://github.com/USERNAME/PROJECT4Proyecto 4</a> — Short description here
 
-🔹 <a href="https://github.com/USERNAME/PROJECT2">🛒 MarketBasketAnalytics</a> — ¿Qué compran tus clientes juntos… y cómo usarlo para vender más?<br>
-
-🔹 <a href="https://github.com/USERNAME/PROJECT3">🎶 Spotify End-to-End</a> — ¿Cómo construí un pipeline real de Data Engineering en Azure desde cero?<br>
-
-🔹 <a href="https://github.com/USERNAME/PROJECT4">Proyecto 4</a> — Short description here
-
-</p>
-<br>
 <hr>
-<br>
+``
 
 <!-- ======================= ABOUT ME ======================= -->
 
