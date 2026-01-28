@@ -103,7 +103,7 @@
 <h1>Certifications! 🏆</h1>
 <br>
 
-|https://img.shields.io/badge/CISCO%20-%20Amenazas%20Cibernéticas-red?style=for-the-badge](https://github.com/RoniEnDatos/Certificados/raw/main/CISCO%20-%20AMENAZAS%20CIBERN%C3%89TICAS%20-%20RONALD%20QUISPE_page-0001.jpg)|[![](https://img.shields.io/badge/CTIC%20-%20C++%20Programming-blue?style=for-the-badge)](https://github.com/RoniEnDatos/Certificados/raw/main/CTIC%20-%20PROGRAMACI%C3%93N%20EN%20C%2B%2B%20-%20RONALD%20QUISPE_page-0001.jpg)|[![](https://img.shields.io/badge/CTIC%20-%20Python-yellow?style=for-the-badge)](https://github.com/RoniEnDatos/Certificados/raw/main/CTIC%20-%20PYTHON-%20RONALD%20QUISPE_page-0001.jpg)|[![](https://img.shields.io/badge/ILEN%20-%20Business%20Intelligence-green?style=for-the-badge)](https://github.com/RoniEnDatos/Certificados/raw/main/ILEN%20-%20Diplomado%20de%20Especializaci%C3%B3N_page-0003.jpg)|
+|[![](https://img.shields.io/badge/CISCO%20-%20Amenazas%20Cibernéticas-red?style=for-the-badge)](https://github.com/RoniEnDatos/Certificados/raw/main/CISCO%20-%20AMENAZAS%20CIBERN%C3%89TICAS%20-%20RONALD%20QUISPE_page-0001.jpg)|[![](https://img.shields.io/badge/CTIC%20-%20C++%20Programming-blue?style=for-the-badge)](https://github.com/RoniEnDatos/Certificados/raw/main/CTIC%20-%20PROGRAMACI%C3%93N%20EN%20C%2B%2B%20-%20RONALD%20QUISPE_page-0001.jpg)|[![](https://img.shields.io/badge/CTIC%20-%20Python-yellow?style=for-the-badge)](https://github.com/RoniEnDatos/Certificados/raw/main/CTIC%20-%20PYTHON-%20RONALD%20QUISPE_page-0001.jpg)|[![](https://img.shields.io/badge/ILEN%20-%20Business%20Intelligence-green?style=for-the-badge)](https://github.com/RoniEnDatos/Certificados/raw/main/ILEN%20-%20Diplomado%20de%20Especializaci%C3%B3N_page-0003.jpg)|
 |---|---|---|---|
 
 <br>
