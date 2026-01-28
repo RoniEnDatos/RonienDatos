@@ -10,9 +10,6 @@
 
 <!-- ======================= PROJECTS SECTION ======================= -->
 
-<h1> Current Projects </h1>
-<br>
-
 <!-- TEMPLATE: Replace with your own repos -->
 <h1>Current Projects</h1>
 
