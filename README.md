@@ -16,9 +16,9 @@
 <!-- TEMPLATE: Replace with your own repos -->
 <h1>Current Projects</h1>
 
-- [📊 Facturas](https://github.com/USERNAME/PROJECT1) — ¿Cómo convertir PDFs en datos con Python?
-- [🛒 MarketBasketAnalytics](https://github.com/USERNAME/PROJECT2) — ¿Qué compran tus clientes juntos… y cómo usarlo para vender más?
-- [🎶 Spotify End-to-End](https://github.com/USERNAME/PROJECT3) — ¿Cómo construí un pipeline real de Data Engineering en Azure desde cero?
+- 📊[Facturas](https://github.com/USERNAME/PROJECT1) — ¿Cómo convertir PDFs en datos con Python?
+- 🛒[MarketBasketAnalytics](https://github.com/USERNAME/PROJECT2) — ¿Qué compran tus clientes juntos… y cómo usarlo para vender más?
+- 🎶[Spotify End-to-End](https://github.com/USERNAME/PROJECT3) — ¿Cómo construí un pipeline real de Data Engineering en Azure desde cero?
 - [Proyecto 4](https://github.com/USERNAME/PROJECT4) — Short description here
 
 <hr>
