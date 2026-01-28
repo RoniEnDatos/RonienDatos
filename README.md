@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Ronald <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="50px"/></h1>
 
-<p align="center">
+<p>
   📍 Lima, Peru • 🔧 Software Developer / Data Analyst / Data Engineer • 🧠 Python & ML
 </p>
 
