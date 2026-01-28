@@ -17,7 +17,9 @@
 <p align="left">
 
 🔹 <a href="https://github.com/USERNAME/PROJECT1"> 📊 Facturas</a> — ¿Cómo convertir PDFs en datos con Python?
+
 🔹 <a href="https://github.com/USERNAME/PROJECT2"> 🛒 MarketBasketAnalytics</a> — ¿Cómo descubrí qué productos venden más cuando se combinan?
+
 🔹 <a href="https://github.com/USERNAME/PROJECT3"> 🎶 Spotify End-to-End — ¿Cómo construí un pipeline real de Data Engineering en Azure desde cero?
 
 🔹 https://github.com/USERNAME/PROJECT4 — Short description here  
