@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/RoniEnDatos/RonienDatos/blob/main/RoniendAtA.png" width="900"/>
-</p>
+</p> -->
 
 <hr>
 <h1 align="center">Hey there! <a href="https://github.com/Aryagm"> I'm Ronald Quispe 😁<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
