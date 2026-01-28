@@ -13,12 +13,12 @@
 <!-- TEMPLATE: Replace with your own repos -->
 <h1>Current Projects</h1>
 
-- 🎶[Spotify End-to-End](https://github.com/RoniEnDatos/spotify_end_to_end_project.git) — ¿Cómo construí un pipeline real de Data Engineering en Azure desde cero?
-- 🛒[MarketBasketAnalytics](https://github.com/RoniEnDatos/Market-Basket-Analytics.git) — ¿Qué compran tus clientes juntos… y cómo usarlo para vender más?
-- 📊[Facturas](https://github.com/RoniEnDatos/Automation_invoices.git) — ¿Cómo convertir PDFs en datos con Python?
-- 💸[Gestor de Gastos](https://github.com/RoniEnDatos/Gestor-de-Gastos-con-FastAPI.git) — ¿Cómo construí mi primer backend real con FastAPI?
-- 🕷️[WebScraping-DevTools](https://github.com/RoniEnDatos/Gestor-de-Gastos-con-FastAPI.git) — ¿Cómo entender el DOM para extraer datos como un pro?
-- 🏬[WalmartClusters](https://github.com/RoniEnDatos/ML_Wallmart.git) — ¿Cómo agrupé tiendas usando Machine Learning sin etiquetas?
+- 🎶[Spotify End-to-End](https://github.com/RoniEnDatos/spotify_end_to_end_project.git) — How I built a real Data Engineering pipeline in Azure from scratch?
+- 🛒[MarketBasketAnalytics](https://github.com/RoniEnDatos/Market-Basket-Analytics.git) — What do your customers buy together… and how to use it to sell more?
+- 📊[Invoices](https://github.com/RoniEnDatos/Automation_invoices.git) — How to convert PDFs into data with Python?
+- 💸[Expense Manager](https://github.com/RoniEnDatos/Gestor-de-Gastos-con-FastAPI.git) — How I built my first real backend with FastAPI?
+- 🕷️[WebScraping-DevTools](https://github.com/RoniEnDatos/Gestor-de-Gastos-con-FastAPI.git) — How to understand the DOM to extract data like a pro?
+- 🏬[WalmartClusters](https://github.com/RoniEnDatos/ML_Wallmart.git) — How I clustered stores using Machine Learning without labels?
 
 <hr>
 ``
