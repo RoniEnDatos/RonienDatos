@@ -13,7 +13,7 @@
 <!-- TEMPLATE: Replace with your own repos -->
 <h1>Current Projects</h1>
 
-- 🎶[Spotify End-to-End](https://github.com/RoniEnDatos/spotify_end_to_end_project.git) — How I built a real Data Engineering pipeline in Azure from scratch?
+- 🎶[Spotify End-to-End](https://github.com/RoniEnDatos/spotify_end_to_end_project.git) — How I built a Data Engineering pipeline in Azure from scratch?
 - 🛒[MarketBasketAnalytics](https://github.com/RoniEnDatos/Market-Basket-Analytics.git) — What do your customers buy together… and how to use it to sell more?
 - 📊[Invoices](https://github.com/RoniEnDatos/Automation_invoices.git) — How to convert PDFs into data with Python?
 - 💸[Expense Manager](https://github.com/RoniEnDatos/Gestor-de-Gastos-con-FastAPI.git) — How I built my first real backend with FastAPI?
